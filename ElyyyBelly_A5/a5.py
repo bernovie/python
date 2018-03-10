@@ -12,6 +12,9 @@ def openFile():
 def myMethodIsBetter(self, parameter_list):
     pass
     
+def secondMethod():
+    pass
+    
 def printReport(myFile):
     total = 0
     total_pizza_profit = 0;
