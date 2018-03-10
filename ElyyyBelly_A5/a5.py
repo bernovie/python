@@ -41,8 +41,6 @@ def updateFile(inputFile, outputFile):
         outputFile.write(inputPizzaType+"\n"+str(inputPizzaPrice)+"\n"+str(inputPizzaCost)+"\n"+str(inputPizzaProfit)+"\n");
     outputFile.close();
     inputFile.close();
-   
-
 def main():
     getPrompt = "y";
     welcomeMessage = "Welcome to the file Program\n";
