@@ -8,12 +8,6 @@ def openFile():
     fileName = raw_input("What is the name of the file? ");
     fileMode = raw_input("Please enter the file mode: ");  
     return file(fileName, fileMode);
-
-def myMethodIsBetter(self, parameter_list):
-    pass
-    
-def secondMethod():
-    pass
     
 def printReport(myFile):
     total = 0
