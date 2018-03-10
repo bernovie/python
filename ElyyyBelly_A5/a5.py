@@ -9,6 +9,9 @@ def openFile():
     fileMode = raw_input("Please enter the file mode: ");  
     return file(fileName, fileMode);
 
+def myMethodIsBetter(self, parameter_list):
+    pass
+    
 def printReport(myFile):
     total = 0
     total_pizza_profit = 0;
